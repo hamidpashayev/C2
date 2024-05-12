@@ -12,11 +12,11 @@ This is a Command & Control (C2) project in Python for remote control of client 
 
 ## Installation
 1. Clone the repository:
-`git clone https://github.com/your-repo/C2-server.git`
+`git clone https://github.com/hamidpashayev/C2.git`
 
 2. Navigate to the project directory:
 
-`cd C2-server`
+`cd C2`
 
 3. Install the required Python packages using pip:
 `pip install -r requirements.txt`
@@ -24,8 +24,9 @@ This is a Command & Control (C2) project in Python for remote control of client 
 
 ## Usage
 1. Start the C2 server by running the script.
-2. Connect clients to the server by running the client script on target machines.
-3. Use the server to send commands, transfer files, capture screenshots, and manage clients.
+   `python3 ./server.py`
+3. Connect clients to the server by running the client script on target machines.
+4. Use the server to send commands, transfer files, capture screenshots, and manage clients.
 
 ## Commands
 - `active`: List all active clients.
@@ -40,9 +41,5 @@ For more information and help, use the `help` command.
 ## Getting Help
 If you need help with this project, you can:
 - Read the documentation in the repository.
-- Report issues or ask questions on the [issue tracker](https://github.com/your-repo/C2-server/issues).
-- Join our community forums [here](https://your-forum-url.com).
-- Reach out to us via email at [your-email@example.com].
-- Follow us on social media for updates and announcements.
+- Reach out to us via email at 500pasham@gmail.com.
 
-We're here to help, so don't hesitate to ask if you encounter any problems or have any questions!
