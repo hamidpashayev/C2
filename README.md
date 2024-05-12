@@ -1,6 +1,6 @@
-# C2 - Command & Control Server
+# C2 - Command & Control 
 
-This is a Command & Control (C2) server implementation in Python for remote control of client machines.
+This is a Command & Control (C2) project in Python for remote control of client machines.
 
 ## Features
 - **Encryption**: Communication with clients is encrypted using AES encryption.
