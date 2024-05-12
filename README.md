@@ -34,6 +34,8 @@ This is a Command & Control (C2) project in Python for remote control of client 
 - `f <path>`: Get a file from a client.
 - `ss`: Get a screenshot from a client.
 
+Note: Active clients list are redirected to `clients.json` file when `exit` command entered on server side.
+
 For more information and help, use the `help` command.
 
 ## Getting Help
