@@ -14,9 +14,7 @@ This is a Command & Control (C2) project in Python for remote control of client 
 1. Clone the repository:
 `git clone https://github.com/hamidpashayev/C2.git`
 
-2. Navigate to the project directory:
-
-`cd C2`
+2. Navigate to the project directory: `cd C2`
 
 3. Install the required Python packages using pip:
 `pip install -r requirements.txt`
