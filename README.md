@@ -30,7 +30,7 @@ This is a Command & Control (C2) project in Python for remote control of client 
 - `active`: List all active clients.
 - `rename <old_client_name> <new_client_name>`: Rename a client.
 - `select <client_name>`: Select a client for sending commands.
-- `e`: Get information about a client.
+- `e`: Output information about a client and write to `enumeration.txt`.
 - `f <path>`: Get a file from a client.
 - `ss`: Get a screenshot from a client.
 
